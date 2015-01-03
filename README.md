@@ -9,4 +9,4 @@ https://github.com/druch5/BazaAdmina-by-ente91/issues
 Instalacja
 ====================
 
-Opis instalacji zostanie dodany wkrótce.
+Opis instalacji: https://github.com/druch5/BazaAdmina-by-ente91/wiki
