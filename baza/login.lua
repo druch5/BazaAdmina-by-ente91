@@ -1,8 +1,4 @@
---[[
-login
-@author ente91 <druch5@tlen.pl>
-@license GPLv2
-]]--
+
 
 mechanic = createTeam ( "Administracja", 255, 215, 0 )
 
