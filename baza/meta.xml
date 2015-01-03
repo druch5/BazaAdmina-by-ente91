@@ -1,0 +1,11 @@
+
+
+<meta>
+	<info author="ente91" version="1.2" type="script" name="BazaAdmina by ente91" />
+    <script src="pliki/login.lua" />
+    <script src="pliki/brama.lua" />
+    <script src="pliki/wejscie.lua" />
+    <script src="pliki/wyjscie.lua" />
+    <script src="pliki/help.lua" />
+    <script src="pliki/lock.lua" />
+</meta>
