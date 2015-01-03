@@ -1,8 +1,3 @@
---[[
-mapEditorScriptingExtension_c
-@author ente91 <druch5@tlen.pl>
-@license GPLv2
-]]--
 
 
 
