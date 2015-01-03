@@ -1,8 +1,4 @@
---[[
-wejście
-@author ente91 <druch5@tlen.pl>
-@license GPLv2
-]]--
+
 
 
 local playerName = getAccountName ( getPlayerAccount ( thePlayer ) )	
