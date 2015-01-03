@@ -1,8 +1,4 @@
---[[
-mapEditorScriptingExtension_s
-@author ente91 <druch5@tlen.pl>
-@license GPLv2
-]]--
+
 
 
 local usedLODModels = {}
